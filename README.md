@@ -41,3 +41,7 @@ This project is a full end‑to‑end security investigation covering alert vali
 - Investigation notes
 - Screenshots (if applicable)
 - Final incident report
+
+## Full Project Documentation
+You can view the complete investigation report here:
+https://docs.google.com/document/d/1X3IiRbjqDpIEShJyFSaNd8AB03_U7_bE64gWjpdpyaA/edit?tab=t.0#heading=h.o95rl4iy9z4x
