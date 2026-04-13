@@ -1,0 +1,42 @@
+# End-to-End Incident Triage Investigation
+
+## Overview
+This project is a full end‑to‑end security investigation covering alert validation, log analysis, enrichment, OSINT, MITRE ATT&CK mapping, and final reporting. It demonstrates my ability to independently triage an alert, follow evidence across multiple data sources, determine true vs. false positives, and deliver a clear, professional incident report aligned with SOC workflows.
+
+## Objectives
+- Validate and analyze a security alert
+- Correlate data across multiple log sources
+- Perform enrichment using OSINT tools
+- Map activity to MITRE ATT&CK techniques
+- Produce a structured incident report
+
+## Tools & Technologies
+- SIEM (Splunk / Wazuh / Elastic)
+- Sysmon logs
+- OSINT tools (VirusTotal, AbuseIPDB, WHOIS)
+- MITRE ATT&CK Navigator
+- Windows Event Logs
+
+## Investigation Workflow
+1. **Alert Validation** – Confirmed alert legitimacy and gathered initial indicators.
+2. **Log Analysis** – Reviewed Sysmon, endpoint, and network logs for supporting evidence.
+3. **Enrichment** – Queried external intelligence sources to validate IOCs.
+4. **Correlation** – Mapped activity across hosts and timelines.
+5. **MITRE Mapping** – Identified relevant techniques and adversary behaviors.
+6. **Final Reporting** – Documented findings, impact, and recommendations.
+
+## Key Findings
+- Identified suspicious process behavior and network connections.
+- Determined whether the alert was a true or false positive.
+- Provided actionable remediation steps.
+
+## What I Learned
+- How to structure a full SOC-style investigation
+- How to correlate logs across multiple data sources
+- How to enrich indicators using OSINT
+- How to communicate findings clearly and professionally
+
+## Files Included
+- Investigation notes
+- Screenshots (if applicable)
+- Final incident report
