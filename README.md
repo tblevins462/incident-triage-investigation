@@ -52,7 +52,6 @@ This project is a full end‑to‑end security investigation covering alert vali
 
 ## Files Included
 - Investigation notes
-- Screenshots (if applicable)
 - Final incident report
 
 ## Full Project Documentation
