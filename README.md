@@ -1,5 +1,18 @@
-
 # End-to-End Incident Triage Investigation
+
+## About This Repo
+This project demonstrates my ability to perform a full SOC investigation from initial alert validation through log correlation, OSINT enrichment, MITRE mapping, and final reporting. It reflects real‑world triage workflows and shows how I analyze evidence to determine true vs. false positives.
+
+## Skills Demonstrated
+- Incident response
+- Log analysis
+- OSINT enrichment
+- MITRE ATT&CK mapping
+- Threat intelligence
+- SIEM investigation
+- Timeline reconstruction
+- Analytical writing & reporting
+- Evidence correlation across multiple data sources
 
 ## Overview
 This project is a full end‑to‑end security investigation covering alert validation, log analysis, enrichment, OSINT, MITRE ATT&CK mapping, and final reporting. It demonstrates my ability to independently triage an alert, follow evidence across multiple data sources, determine true vs. false positives, and deliver a clear, professional incident report aligned with SOC workflows.
@@ -19,12 +32,12 @@ This project is a full end‑to‑end security investigation covering alert vali
 - Windows Event Logs
 
 ## Investigation Workflow
-1. **Alert Validation** – Confirmed alert legitimacy and gathered initial indicators.
-2. **Log Analysis** – Reviewed Sysmon, endpoint, and network logs for supporting evidence.
-3. **Enrichment** – Queried external intelligence sources to validate IOCs.
-4. **Correlation** – Mapped activity across hosts and timelines.
-5. **MITRE Mapping** – Identified relevant techniques and adversary behaviors.
-6. **Final Reporting** – Documented findings, impact, and recommendations.
+1. Alert Validation – Confirmed alert legitimacy and gathered initial indicators.
+2. Log Analysis – Reviewed Sysmon, endpoint, and network logs for supporting evidence.
+3. Enrichment – Queried external intelligence sources to validate IOCs.
+4. Correlation – Mapped activity across hosts and timelines.
+5. MITRE Mapping – Identified relevant techniques and adversary behaviors.
+6. Final Reporting – Documented findings, impact, and recommendations.
 
 ## Key Findings
 - Identified suspicious process behavior and network connections.
@@ -44,4 +57,4 @@ This project is a full end‑to‑end security investigation covering alert vali
 
 ## Full Project Documentation
 You can view the complete investigation report here:
-https://docs.google.com/document/d/1X3IiRbjqDpIEShJyFSaNd8AB03_U7_bE64gWjpdpyaA/edit?tab=t.0#heading=h.o95rl4iy9z4x
+https://docs.google.com/document/d/1X3IiRbjqDpIEShJyFSaNd8AB03_U7_bE64gWjpdpyaA/edit
