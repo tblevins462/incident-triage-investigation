@@ -12,7 +12,7 @@ This project is a full end‑to‑end security investigation covering alert vali
 - Produce a structured incident report
 
 ## Tools & Technologies
-- SIEM (Splunk / Wazuh / Elastic)
+- SIEM (Splunk)
 - Sysmon logs
 - OSINT tools (VirusTotal, AbuseIPDB, WHOIS)
 - MITRE ATT&CK Navigator
